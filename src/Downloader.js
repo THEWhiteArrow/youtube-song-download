@@ -9,8 +9,7 @@ class Downloader extends Component {
         this.state = {
             inputs: {
                 // id:value
-                'my_secret_id': 'past lives',
-                'my_secret_id_2': '',
+                'my_secret_id': '',
             },
             notification: [],
             ready: false,
